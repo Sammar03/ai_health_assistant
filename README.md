@@ -1,5 +1,3 @@
-Perfect 👌 since your repo is now safe, let’s make the **README.md** professional, engaging, and clear so that visitors immediately understand what the project is, what tech it uses, and how they can reuse it.# 🩺 AI Health Assistant
-
 An AI-powered health assistant that leverages **LLMs** and **Firebase** to provide intelligent, secure, and scalable healthcare support. This project demonstrates how to integrate machine learning models with modern deployment tools, making it easier for developers and researchers to build and extend AI-driven healthcare applications.
 
 
