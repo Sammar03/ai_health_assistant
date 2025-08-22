@@ -1,0 +1,10 @@
+streamlit
+firebase-admin
+openai
+PyMuPDF
+pdfplumber
+streamlit-authenticator
+python-dotenv
+requests
+pandas
+altair
