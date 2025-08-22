@@ -1,0 +1,175 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django / Flask stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv / poetry
+# Pipfile.lock
+# poetry.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Environments (VERY IMPORTANT for API keys & Firebase configs)
+.env
+.env.local
+.env.production
+.env.development
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Firebase configs (DO NOT COMMIT SERVICE KEYS)
+firebase-debug.log
+firebase-debug.*
+firestore.indexes.json
+firestore.rules
+database.rules.json
+storage.rules
+.serviceAccountKey.json
+firebase.json
+.config/
+firebase_service_account.json  # <-- Explicitly ignore this file
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Spyder / Rope / PyCharm
+.spyderproject
+.spyproject
+.ropeproject
+.idea/
+
+# mkdocs
+/site
+
+# mypy / type checkers
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# VSCode
+.vscode/
+
+# Other sensitive configs
+*.key
+*.pem
+*.crt
+*.credentials.json
+*.config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.json
+*.secrets.json
+*.secret.*
+*.token.json
+
+# GitHub tokens / credentials
+.github-token
+*.pat
+
+# Local test data
+*.sqlite3
+*.db
+
+# Logs (just in case)
+*.log
+
+# Backup files
+*.bak
+*.swp
