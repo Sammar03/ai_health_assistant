@@ -38,8 +38,8 @@ AI_HEALTH_ASSISTANT/
 
 1. **Clone the Repository**
 
-   git clone https://github.com/<your-username>/AI_HEALTH_ASSISTANT.git
-   cd AI_HEALTH_ASSISTANT
+   git clone https://github.com/<your-username>/ai_health_assistant.git
+   cd ai_health_assistant
 
 2. **Create Virtual Environment & Install Dependencies**
 
